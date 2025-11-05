@@ -125,6 +125,8 @@ python yt.py
 
 ## 🐧 Linux Installation
 
+**Make sure to use python3 instead of python if you have the latest python version**
+
 ### Quick Install (Recommended Method)
 
 **For Modern Linux (Debian/Ubuntu/Fedora with externally-managed Python):**
